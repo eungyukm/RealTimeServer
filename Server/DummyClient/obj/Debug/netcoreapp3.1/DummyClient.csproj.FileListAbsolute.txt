@@ -1,0 +1,13 @@
+D:\C#_Server\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.exe
+D:\C#_Server\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.deps.json
+D:\C#_Server\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.json
+D:\C#_Server\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.dev.json
+D:\C#_Server\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.dll
+D:\C#_Server\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.pdb
+D:\C#_Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csprojAssemblyReference.cache
+D:\C#_Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfoInputs.cache
+D:\C#_Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfo.cs
+D:\C#_Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.CoreCompileInputs.cache
+D:\C#_Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.dll
+D:\C#_Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.pdb
+D:\C#_Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C#_Server\C#_Server\Server\bin\Release\netcoreapp3.1\Server.exe
+D:\C#_Server\C#_Server\Server\bin\Release\netcoreapp3.1\Server.deps.json
+D:\C#_Server\C#_Server\Server\bin\Release\netcoreapp3.1\Server.runtimeconfig.json
+D:\C#_Server\C#_Server\Server\bin\Release\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\C#_Server\C#_Server\Server\bin\Release\netcoreapp3.1\Server.dll
+D:\C#_Server\C#_Server\Server\bin\Release\netcoreapp3.1\Server.pdb
+D:\C#_Server\C#_Server\Server\bin\Release\netcoreapp3.1\ServerCore.dll
+D:\C#_Server\C#_Server\Server\bin\Release\netcoreapp3.1\ServerCore.pdb
+D:\C#_Server\C#_Server\Server\obj\Release\netcoreapp3.1\Server.csprojAssemblyReference.cache
+D:\C#_Server\C#_Server\Server\obj\Release\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\C#_Server\C#_Server\Server\obj\Release\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\C#_Server\C#_Server\Server\obj\Release\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\C#_Server\C#_Server\Server\obj\Release\netcoreapp3.1\Server.csproj.CopyComplete
+D:\C#_Server\C#_Server\Server\obj\Release\netcoreapp3.1\Server.dll
+D:\C#_Server\C#_Server\Server\obj\Release\netcoreapp3.1\Server.pdb
+D:\C#_Server\C#_Server\Server\obj\Release\netcoreapp3.1\Server.genruntimeconfig.cache

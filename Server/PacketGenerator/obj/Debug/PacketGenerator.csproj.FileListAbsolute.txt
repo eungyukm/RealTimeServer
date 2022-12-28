@@ -1,0 +1,12 @@
+D:\C#_Server\C#_Server\PacketGenerator\bin\PacketGenerator.exe
+D:\C#_Server\C#_Server\PacketGenerator\bin\PacketGenerator.deps.json
+D:\C#_Server\C#_Server\PacketGenerator\bin\PacketGenerator.runtimeconfig.json
+D:\C#_Server\C#_Server\PacketGenerator\bin\PacketGenerator.runtimeconfig.dev.json
+D:\C#_Server\C#_Server\PacketGenerator\bin\PacketGenerator.dll
+D:\C#_Server\C#_Server\PacketGenerator\bin\PacketGenerator.pdb
+D:\C#_Server\C#_Server\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfoInputs.cache
+D:\C#_Server\C#_Server\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfo.cs
+D:\C#_Server\C#_Server\PacketGenerator\obj\Debug\PacketGenerator.csproj.CoreCompileInputs.cache
+D:\C#_Server\C#_Server\PacketGenerator\obj\Debug\PacketGenerator.dll
+D:\C#_Server\C#_Server\PacketGenerator\obj\Debug\PacketGenerator.pdb
+D:\C#_Server\C#_Server\PacketGenerator\obj\Debug\PacketGenerator.genruntimeconfig.cache

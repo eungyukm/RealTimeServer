@@ -1,0 +1,13 @@
+D:\C#_Server\C#_Server\PacketGenerator\bin\Release\netcoreapp3.1\PacketGenerator.exe
+D:\C#_Server\C#_Server\PacketGenerator\bin\Release\netcoreapp3.1\PacketGenerator.deps.json
+D:\C#_Server\C#_Server\PacketGenerator\bin\Release\netcoreapp3.1\PacketGenerator.runtimeconfig.json
+D:\C#_Server\C#_Server\PacketGenerator\bin\Release\netcoreapp3.1\PacketGenerator.runtimeconfig.dev.json
+D:\C#_Server\C#_Server\PacketGenerator\bin\Release\netcoreapp3.1\PacketGenerator.dll
+D:\C#_Server\C#_Server\PacketGenerator\bin\Release\netcoreapp3.1\PacketGenerator.pdb
+D:\C#_Server\C#_Server\PacketGenerator\obj\Release\netcoreapp3.1\PacketGenerator.csprojAssemblyReference.cache
+D:\C#_Server\C#_Server\PacketGenerator\obj\Release\netcoreapp3.1\PacketGenerator.AssemblyInfoInputs.cache
+D:\C#_Server\C#_Server\PacketGenerator\obj\Release\netcoreapp3.1\PacketGenerator.AssemblyInfo.cs
+D:\C#_Server\C#_Server\PacketGenerator\obj\Release\netcoreapp3.1\PacketGenerator.csproj.CoreCompileInputs.cache
+D:\C#_Server\C#_Server\PacketGenerator\obj\Release\netcoreapp3.1\PacketGenerator.dll
+D:\C#_Server\C#_Server\PacketGenerator\obj\Release\netcoreapp3.1\PacketGenerator.pdb
+D:\C#_Server\C#_Server\PacketGenerator\obj\Release\netcoreapp3.1\PacketGenerator.genruntimeconfig.cache
